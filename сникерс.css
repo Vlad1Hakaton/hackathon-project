@@ -1,0 +1,161 @@
+h1 {
+  border:3px solid lightgreen ;
+  width: 140px;
+  background-color: lightgreen;
+  z-index: 1;
+}
+
+nav {
+   position: absolute;
+   top: 200px;
+   left: 80px;
+   height: 60px;
+   width: 100px;
+  }
+
+Body {
+  background-color: D9D9D9;
+}
+
+a {
+  color: white;
+  padding: 20px;
+  background-color: #2D7B2C ;
+}
+
+.ptr {
+  position: absolute ;
+  top: 520px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.one {
+ position: absolute;
+ width: 80px;
+ height: 25px;
+ border-radius: 20px;
+ background: 5BDC8E ;
+}
+
+p2 {
+position: absolute;
+width: 400px;
+height: 200px;
+left: 60%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 150px;
+font-size: 30px;
+line-height: 61px;
+}
+
+.trikytnik {
+  border: 15px solid lightgreen;
+  position: absolute;
+  top: 34px ;
+  left: 20px;
+  transform: rotate(45deg);
+  z-index: -1;
+  }
+
+.ssg {
+    position: absolute ;
+    top: 600px;
+  }
+
+  .jojo {
+    position: absolute ;
+    top: 1250px;
+    background-color: 81C67C;
+    width: 1400px;
+    text-align: center;
+  }
+
+  .ftr {
+    position: absolute ;
+    top: 1600px;
+  }
+
+  .d {
+    position: absolute ;
+    top: 400px;
+    background-image: linear-gradient(45deg,green, lightgreen);
+    width: 1400px;
+    height: 100px;
+    text-align: center;
+    font-size: 40px;
+  }
+
+.vbvb {
+  color: 1A5B19;
+}
+
+.odin {
+    background-color: rgba(96, 228, 34, 1);
+    border-radius: 50px;
+    padding: 50px;
+    width: 280px;
+    height: 60px;
+    font-size: 30px;
+    position: absolute;
+    left: 500px;
+    text-align: center;
+}
+
+.dva {
+ background-color: rgba(96, 228, 34, 1);
+    border-radius: 50px;
+    padding: 50px;
+    width: 280px;
+    height: 60px;
+    font-size: 30px;
+    position: absolute;
+    left: 500px;
+    top: 210px;
+    text-align: center;
+}
+
+.tri {
+    background-color: rgba(96, 228, 34, 1);
+    border-radius: 50px;
+    padding: 50px;
+    width: 280px;
+    height: 60px;
+    font-size: 30px;
+    position: absolute;
+    left: 500px;
+    top: 400px;
+    text-align: center;
+}
+
+.img1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 390px;
+  bottom: -150px;
+}
+
+.img2 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 390px;
+  bottom: -350px;
+}
+
+.img3 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 390px;
+  bottom: -550px;
+}
+
+.ppp {
+  ;
+}
